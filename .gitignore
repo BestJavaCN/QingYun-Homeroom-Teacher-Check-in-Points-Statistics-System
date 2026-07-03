@@ -1,0 +1,14 @@
+node_modules
+dist/electron
+dist/electron-build
+dist/electron-build2
+dist/electron-build3
+temp-asar-verify
+temp-asar-modify
+*.exe
+*.dll
+*.asar
+data/users.json
+data/classes.json
+data/config.json
+data/checkin/
